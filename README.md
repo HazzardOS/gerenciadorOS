@@ -19,7 +19,7 @@ Através das indicações contidas em uma OS, designam-se informações necessá
 
 
 #### 2.2.  Requisitos Funcionais
-![alt text](https://i.imgur.com/liugWtd.png "Requisitos funcionais")
+![alt text](https://imgur.com/XiLBaPb.jpg "Requisitos funcionais")
 
 #### 2.3.  Requisitos não funcionais
 Durante toda a abertura do chamado, o cliente terá que estar em contato com o funcionário, para relatar a descrição do seu problema e abrir a ordem de chamado para aquele problema.
@@ -29,7 +29,7 @@ Durante toda a abertura do chamado, o cliente terá que estar em contato com o f
 ### 3.1. Analise e Design
 
 #### 3.2. Diagrama de Classe
-![alt text](https://i.imgur.com/t1KOV8Y.jpg "Diagrama de Classe")
+![alt text](https://imgur.com/lhsFEy4.jpg "Diagrama de Classe") 
 
 #### 3.3. Diagrama de Atividades
 ![alt text](https://i.imgur.com/vq8hfV4.jpg "Diagrama de Atividade")
